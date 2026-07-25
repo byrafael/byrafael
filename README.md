@@ -1,4 +1,4 @@
-Backend & AI Systems Developer from Costa Rica.
+My agents build cool stuff @ MUSCLE.
 
 You can contact me through email: `hello[at]rsrdev[dot]com`.
 
